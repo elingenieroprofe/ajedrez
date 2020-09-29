@@ -70,9 +70,5 @@
 }
 #p2{
 	background-image: url(../img/one.png);
-	width: 100px;
-	height: 100px;
-	
-
-
+	background-size: cover;
 }
