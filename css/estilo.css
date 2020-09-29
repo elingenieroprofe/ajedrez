@@ -68,3 +68,7 @@
 	background-color: #aa5929;
 	float: left;
 }
+#p1{
+  background-image: url(../img/12.jpeg);
+  background-size: cover;
+}
