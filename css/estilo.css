@@ -68,7 +68,6 @@
 	background-color: #aa5929;
 	float: left;
 }
-
 #p1{
   background-image: url(../img/12.jpeg);
   background-size: cover;
@@ -77,8 +76,11 @@
 	background-image: url(../img/Kenshin.png);
 	background-size: cover;
 }
-
 #p10 {
 	background-image: url(../img/642-6425255_the-neighbourhood-logo-png.png);
+	background-size: cover;
+}
+#p2{
+	background-image: url(../img/one.png);
 	background-size: cover;
 }
