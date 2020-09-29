@@ -1,0 +1,70 @@
+*{
+	margin: 0px;
+}
+
+#cuadro{
+	width: 900px;
+	height: 900px;
+	/*background-image: url(../img/madera.jpg);*/
+	position: relative;
+	background-size: cover;
+	margin: 0 auto; /*para centrar una caja*/
+	border: 10px;
+	border-radius: 10px; /*Sirve para redondear una caja*/
+	border-style: solid;
+	border-color: #D5D1C0;
+	box-shadow: 5px 5px #555; /*Sirve pára mostrar una sombra a una caja*/
+}
+#cajadrez{
+	width: 800px;
+	height: 800px;
+	background-color: white;
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 50px;
+	border: 10px;
+	border-style: solid;
+	border-color: #c8a46d;
+
+}
+#imagenfondo{
+	width: 900px;
+	height: 900px;
+	position: absolute;
+}
+
+#boton{
+	width: 100px;
+	height: 30px;
+	position: absolute;
+	margin-top: 860px;
+	margin-left: 300px;
+}
+#tit{
+	width: 100px;
+	height: 30px;
+	position: absolute;
+	margin-top: 860px;
+	margin-left: 405px;
+	font-size: 25px;
+	color: white;
+}
+#rango{
+	width: 50px;
+	height: 30px;
+	position: absolute;
+	margin-top: 860px;
+	margin-left: 465px;
+}
+#cajablanca{
+	width: 100px;
+	height: 100px;
+	background-color: #facd8a;
+	float: left;
+}
+#cajanegra{
+	width: 100px;
+	height: 100px;
+	background-color: #aa5929;
+	float: left;
+}
