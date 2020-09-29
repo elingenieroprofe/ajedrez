@@ -68,3 +68,7 @@
 	background-color: #aa5929;
 	float: left;
 }
+#p6{
+	background-image: url(../img/Kenshin.png);
+	background-size: cover;
+}
