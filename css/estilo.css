@@ -56,13 +56,13 @@
 	margin-top: 860px;
 	margin-left: 465px;
 }
-#cajablanca{
+.cajablanca{
 	width: 100px;
 	height: 100px;
 	background-color: #facd8a;
 	float: left;
 }
-#cajanegra{
+.cajanegra{
 	width: 100px;
 	height: 100px;
 	background-color: #aa5929;
